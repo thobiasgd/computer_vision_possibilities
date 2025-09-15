@@ -59,7 +59,7 @@ Exemplos:
 - Classificar frutas em uma esteira de produção.  
 - Identificar peças defeituosas em uma fábrica.
 
-![class](class.gif)
+![clasasdas](class.gif)
 
 ---
 
