@@ -61,6 +61,12 @@ Exemplos:
 
 ![class.gif](https://miro.medium.com/1*jviCdOvvpfrzEZ0jDbo49A.gif)
 ![asdasdasd](class.gif)
+<p align="center">
+  <img src="class.gif" >
+</p>
+<p align="center">
+  <img src="https://miro.medium.com/1*jviCdOvvpfrzEZ0jDbo49A.gif" >
+</p>
 
 ---
 
