@@ -89,13 +89,4 @@ Exemplos práticos:
 - Analisar como máquinas ou pessoas se deslocam dentro de uma fábrica.  
 - Detectar padrões de comportamento (ex.: pessoas andando em áreas suspeitas). 
 
-<p align="center">
-  <img src="banner.png" >
-</p>
-
-# 🚀 **Resumo**
-
-A visão computacional pode ser aplicada em **segurança, automação, saúde, indústria, agricultura e até lazer**.  
-O mais interessante é que as mesmas técnicas podem resolver problemas totalmente diferentes — tudo depende da **imaginação e da necessidade**.
-
----
+![trajetoria](trajetoria.gif)
