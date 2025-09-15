@@ -59,9 +59,7 @@ Exemplos:
 - Classificar frutas em uma esteira de produção.  
 - Identificar peças defeituosas em uma fábrica.
 
-<p align="center">
-  <img src="https://miro.medium.com/1*jviCdOvvpfrzEZ0jDbo49A.gif" >
-</p>
+![asdasdasd](class.gif)
 
 ---
 
