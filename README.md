@@ -63,7 +63,7 @@ Exemplos:
   <img src="https://github.com/thobiasgd/computer_vision_possibilities/blob/8d945fd1078197da4335ed39fd87923e3ff52b02/imagens/class.gif" >
 </p>
 
-![asdas](https://github.com/thobiasgd/computer_vision_possibilities/blob/computer_vision_possibilities/imagens/class.gif)
+![class gif](https://raw.githubusercontent.com/thobiasgd/computer_vision_possibilities/8d945fd1078197da4335ed39fd87923e3ff52b02/imagens/class.gif)
 
 ![asdasadsd](imagens/class.gif)
 ---
