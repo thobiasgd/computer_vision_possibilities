@@ -63,10 +63,7 @@ Exemplos:
 - Ler placas de veículos em estradas.  
 - Transformar fotos de documentos em texto editável.
 
-<p align="center">
-  <img src="banner.png" >
-</p>
-
+![OCR](OCR.gif)
 
 ---
 
