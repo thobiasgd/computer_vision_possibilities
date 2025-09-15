@@ -13,10 +13,7 @@ Alguns exemplos de uso:
 - Contar quantas pessoas ou veículos passam por uma região.
 - Acionar um alarme ou equipamento quando algo é detectado naquela área.
 
-<p align="center">
-  <img src="banner.png" >
-</p>
-
+![classe](maquina2.gif)
 
 ---
 
@@ -59,7 +56,7 @@ Exemplos:
 - Classificar frutas em uma esteira de produção.  
 - Identificar peças defeituosas em uma fábrica.
 
-![asdasdasd](class.gif)
+![classe](class.gif)
 
 ---
 
