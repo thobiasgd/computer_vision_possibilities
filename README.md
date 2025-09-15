@@ -13,7 +13,7 @@ Alguns exemplos de uso:
 - Contar quantas pessoas ou veículos passam por uma região.
 - Acionar um alarme ou equipamento quando algo é detectado naquela área.
 
-![classe](maquina2.gif)
+![area](maquina2.gif)
 
 ---
 
@@ -27,9 +27,7 @@ Exemplos práticos:
 - Identificar veículos em movimento.  
 - Contar objetos em uma linha de produção.
 
-<p align="center">
-  <img src="banner.png" >
-</p>
+![rua](rua.gif)
 
 ---
 
