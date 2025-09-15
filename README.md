@@ -39,10 +39,7 @@ Exemplos de uso:
 - Registro de presença em empresas ou escolas.  
 - Sistemas de autenticação sem senha.
 
-- <p align="center">
-  <img src="banner.png" >
-</p>
-
+![rua](faces.gif)
 
 ---
 
