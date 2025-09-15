@@ -74,10 +74,7 @@ Além do lado técnico, também existem usos criativos:
 - Jogos que usam câmera para capturar movimentos.  
 - Aplicações de arte digital baseadas em imagens.
 
-<p align="center">
-  <img src="banner.png" >
-</p>
-
+![tenis](tenis.gif)
 
 ---
 
