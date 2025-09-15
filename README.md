@@ -60,7 +60,7 @@ Exemplos:
 - Identificar peças defeituosas em uma fábrica.
 
 <p align="center">
-  <img src="/imagens/class.gif" >
+  <img src="[/imagens/class.gif](https://github.com/thobiasgd/computer_vision_possibilities/blob/8d945fd1078197da4335ed39fd87923e3ff52b02/imagens/class.gif)" >
 </p>
 
 
