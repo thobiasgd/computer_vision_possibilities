@@ -60,13 +60,13 @@ Exemplos:
 - Identificar peças defeituosas em uma fábrica.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thobiasgd/computer_vision_possibilities/main/imagens/class.gif" width="400">
+  <img src="https://raw.githubusercontent.com/thobiasgd/computer_vision_possibilities/main/imagensGif/class.gif" width="400">
 </p>
 
 
-![class gif](https://raw.githubusercontent.com/thobiasgd/computer_vision_possibilities/main/imagens/class.gif)
+![class gif](https://raw.githubusercontent.com/thobiasgd/computer_vision_possibilities/main/imagensGif/class.gif)
 
-![class gif](imagens/class.gif)
+![class gif](imagensGif/class.gif)
 ---
 
 ## **5. Leitura de Textos (OCR)**
